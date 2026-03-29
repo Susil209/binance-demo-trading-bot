@@ -2,8 +2,6 @@
 
 A Python CLI trading bot that places **Market**, **Limit**, and **Stop-Limit** orders on **Binance Futures Testnet (USDT-M)**.
 
-Built with clean architecture, structured logging, and comprehensive error handling.
-
 ---
 
 ##  Features
@@ -67,8 +65,6 @@ Edit `.env` and fill in your Binance Futures Testnet API credentials:
 BINANCE_API_KEY=your_actual_api_key
 BINANCE_API_SECRET=your_actual_api_secret
 ```
-
-> **Never commit your `.env` file.** It is already in `.gitignore`.
 
 ---
 
